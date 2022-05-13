@@ -1,4 +1,4 @@
-import Loading from './Loading/index.js'
+import Loading from './loading/index.js'
 
 const components = [Loading]
 const install = function(Vue) {
